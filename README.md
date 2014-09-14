@@ -11,7 +11,7 @@ Geodata conversion
 
 Vector data functions
   * `mergepoly`
-  
+
 Geocoding
   * `geocode3`
   * `traveltime`
@@ -21,6 +21,10 @@ Distance functions
   * `distmatch`
   * `geonear`
   * `vincenty`
+  * `nearstat`
+
+Spatial analysis
+  * `spkde`
 
 Mapping
   * `spmap`
@@ -29,8 +33,13 @@ Mapping
   * `spgrid`
   * `tmap`
   * `worldstat`
-  
+  * `maptile`
+
 Raster data analysis
   * `dta2ras`
   * `ras2dta`
   * `spatsam` 
+
+Support utilities
+  * `libjson`
+  * `insheetjson`
