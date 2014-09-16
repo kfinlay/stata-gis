@@ -23,8 +23,21 @@ Distance functions
   * `vincenty`
   * `nearstat`
 
-Spatial analysis
+Spatial weighting and regression
+  * `spmat`
+  * `spreg`
+  * `spivreg`
+  * `spwmatrix`
+  * `splagvar`
   * `spkde`
+  * `xsmle`
+  * `spautoreg`
+  * `spatwmat`
+  * `spatcorr`
+  * `spatdiag`
+  * `spatgsa`
+  * `spatlsa`
+  * `spatreg`
 
 Mapping
   * `spmap`
