@@ -19,6 +19,7 @@ Geocoding
 
 Distance functions
   * `distmatch`
+  * `geodist`
   * `geonear`
   * `vincenty`
   * `nearstat`
