@@ -8,6 +8,7 @@ Geodata conversion
   * `mif2dta`
   * `dta2ras`
   * `ras2dta`
+  * `kmlmap`
 
 Vector data functions
   * `mergepoly`
